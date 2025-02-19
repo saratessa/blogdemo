@@ -3,6 +3,7 @@ title: "blogdemo"
 description: |
   blogdemo
 output_dir: "docs"
+base_url: https://saratessa.github.io/blogdemo/
 navbar:
   right:
     - text: "Home"
