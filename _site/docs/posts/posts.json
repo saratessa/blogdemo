@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to blogdemo",
+    "description": "Welcome to our new blog, blogdemo. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Saratessa Palos",
+        "url": {}
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2025-02-19T15:40:31-08:00",
+    "input_file": {}
+  }
+]

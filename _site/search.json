@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "blogdemo",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2025-02-24T14:48:22-08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
